@@ -200,7 +200,7 @@ def approvalf():
             "https://github.com/Isidrointong/access/blob/main/5.txt",
             "https://github.com/Isidrointong/access/blob/main/6.txt",
             "https://github.com/Isidrointong/access/blob/main/7.txt",
-            "https://github.com/Bisheshz/06f27/blob/main/8.txt"
+            "https://github.com/Isidrointong/access/blob/main/8.txt"
         ]
         
         key_found = False
