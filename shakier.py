@@ -197,9 +197,9 @@ def approvalf():
         #linex()
 
         urls = [
-            "https://github.com/Bisheshz/06f27/blob/main/5.txt",
-            "https://github.com/Bisheshz/06f27/blob/main/6.txt",
-            "https://github.com/Bisheshz/06f27/blob/main/7.txt",
+            "https://github.com/Isidrointong/access/blob/main/5.txt",
+            "https://github.com/Isidrointong/access/blob/main/6.txt",
+            "https://github.com/Isidrointong/access/blob/main/7.txt",
             "https://github.com/Bisheshz/06f27/blob/main/8.txt"
         ]
         
@@ -342,7 +342,7 @@ def greet_user():
 
 def ip(key):
     urls = {
-        "Trial " : "https://github.com/Bisheshz/06f27/blob/main/5.txt",
+        "Trial " : "https://github.com/Isidrointong/access/blob/main/5.txt",
         "Premium「1」": "https://github.com/Isidrointong/access/blob/main/6.txt",
         "Premium「3」": "https://github.com/Isidrointong/access/blob/main/7.txt",
         "Premium「3」": "https://github.com/Isidrointong/access/blob/main/8.txt"
